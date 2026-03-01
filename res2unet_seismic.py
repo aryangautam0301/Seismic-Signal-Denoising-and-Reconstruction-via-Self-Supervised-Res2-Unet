@@ -1,13 +1,5 @@
 
-"""
-Res2-UNet Seismic Denoising
-Self-supervised deep learning model.
-
-NOTE:
-Training runs only when executed directly.
-Safe for Codex environment testing.
-"""
-
+if __name__=="__main__":
 
 ##############################################################
 #  Seismic Signal Denoising via Self-Supervised Res2-UNet
